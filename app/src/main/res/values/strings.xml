@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BirthdayApp</string>
+    <string name="happy_birthday_text">Happy Birthday</string>
+    <string name="signature_text">Written By:Abdul-Rahim Muzamir Mafabi.</string>
+
+    <string name="it_s_your_day_mummy_text">It\'s Your Day </string>
+    <string name="twitter_armssecondson_text">Twitter;@armssecondson</string>
+    <string name="next_text">Next</string>
+</resources>
